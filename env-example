@@ -1,0 +1,8 @@
+AWS_ACCESS_KEY=***
+AWS_SECRET_KEY=***
+AWS_SECRET_TOKEN=***
+AWS_SES_REGION=***
+
+DOMAIN=labs.quizcld.com
+HOSTED_ZONE_ID=***
+SENDER_EMAIL=no-reply@labs.quizcld.com
